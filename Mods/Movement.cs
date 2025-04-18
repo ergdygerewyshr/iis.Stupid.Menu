@@ -21,7 +21,7 @@ using UnityEngine.UI;
 using static iiMenu.Classes.RigManager;
 using static iiMenu.Menu.Main;
 
-namespace iiMenu.Mods
+namespace SuperNova.Mods
 {
     public class Movement
     {
